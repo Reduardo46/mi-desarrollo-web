@@ -15,3 +15,14 @@ Este es mi espacio de aprendizaje donde documentaré mi progreso como desarrolla
 3. Hacer la página responsive
 
 ## 🗂️ Estructura del Proyecto
+```
+/pagina-personal
+  ├── index.html
+  ├── css/
+  │   └── estilos.css
+  └── img/
+
+### 🎯 Objetivos de la Semana
+- [ ] Crear el archivo HTML
+- [ ] Agregar la estructura básica
+- [ ] Comenzar con los estilos CSS
